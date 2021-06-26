@@ -3,7 +3,7 @@
 ## How to build a Robot 101
 
 Before we can get to fabricate a robot, it goes thorugh dozens of iterations, starting with the analysis of Kinematic Links (GeoGebra) to a CAD model(SW, Fusion) to URDF. It then gets its controls before being tested in simulation environments.
-%### I like to start with this quote from Gary Kasparov, “To become good at anything you have to know how to apply basic principles. To become great at it, you have to know when to violate those principles.”
+### "To become good at anything you have to know how to apply basic principles. To become great at it, you have to know when to violate those principles." -Gary Kasparov
 ## Create, Iterate, Repeat.
 ![Lets get done](media/0r-7ewQnhoRWCpqyNtH1b5KSySPNh-bzXIV2aSWoB78.webp)
 
