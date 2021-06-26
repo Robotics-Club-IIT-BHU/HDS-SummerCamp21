@@ -1,4 +1,4 @@
-# Hardware-and-Dynamics
+# HDS-SummperCamp21
 
 ## Introduction and Instructions:
 In the next 15 days, we will try to cover the basics of CAD Designing using Solidworks and
