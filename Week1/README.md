@@ -1,4 +1,4 @@
-# After you have installed a CAD software (Preferably SolidWorks), here is your 1st task.
+# After you have installed a CAD software (Preferably SolidWorks), here is your 1st task. See: Installation readme above
 
 ## Watch These Videos:
 
