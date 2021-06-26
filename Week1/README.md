@@ -8,7 +8,7 @@
 ## Make these parts
 
 <p align="center">
- <img  width="100" height="100" src="https://github.com/Robotics-Club-IIT-BHU/Robotics-Camp-2021/blob/main/src/robo.jpeg">
+ <img  width="400" height="400" src="https://github.com/Robotics-Club-IIT-BHU/HDS-SummperCamp21/blob/main/media/rough.png">
  <p align="center">
  <i>presents:</i><br> 
 </p>
