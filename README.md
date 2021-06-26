@@ -47,5 +47,5 @@ Making CAD models should be sexy. If not, you might be studying for the wrong pr
 When your 3D model is complete, and you've checked it for errors, make a rendering of it. Rendering an image makes it look much better by applying realistic materials, backgrounds, and lighting to and around the model.
 ![Lets get done](media/7.jpg)
 
-## If you made it so far, congratulations. 
+## If you made it so far, Good Start. You can now head to week 1! 
 
