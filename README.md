@@ -22,6 +22,8 @@ Fusion 360, SW and CATIA. (Not AutoCAD)
 4. Minimum – i3/4GB/No GPU. You will face lags though.
 5. Mouse is mandatory.
 
-
+The tutorials are based on SolidWorks Basics extended Instrucrions by Prof C. Sikora on
+Vertanux1.com. We have trimmed them to include the basics. If you want, you can check
+out the full version on this [link](https://www.youtube.com/playlist?list=PLROUP1bV8REQmZgDTTJ0JCanXS8uySo-4) and the advanced instruction on this [link](https://www.youtube.com/playlist?list=PLROUP1bV8REQ3uB7OTT3GunhdOOOfvLFz). Let’s get started ..
 
 
