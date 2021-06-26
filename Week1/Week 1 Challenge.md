@@ -27,7 +27,8 @@
  <i></i><br> 
 </p>
 
+## Try doing it yourself. If you want a Hint, then see this [model](https://1drv.ms/u/s!An3mBuBflLcDpEpZZSUbnJNIMEfe) for an almost isometric view 
 
-
+# *END OF WEEEK 1!*
 
 
