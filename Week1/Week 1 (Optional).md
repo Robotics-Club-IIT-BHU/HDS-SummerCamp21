@@ -3,7 +3,7 @@
 # How to create an aerofoil in SolidWorks
 
 <p align="center">
- <img  width="900" height="400" src="https://github.com/Robotics-Club-IIT-BHU/HDS-SummperCamp21/blob/main/media/image001-1.png">
+ <img  width="900" height="400" src="https://github.com/Robotics-Club-IIT-BHU/HDS-SummperCamp21/blob/main/media/image010-1.png">
  <p align="center">
  <i></i><br> 
 </p>
@@ -25,7 +25,7 @@ Pretty much the same process but watch [this](https://www.youtube.com/watch?v=Y-
 # If time permits, we will also perform flow analysis of aerofoils in the upcoming weeks.
 
 <p align="center">
- <img  width="900" height="400" src="https://github.com/Robotics-Club-IIT-BHU/HDS-SummperCamp21/blob/main/media/image010-1.png">
+ <img  width="900" height="400" src="https://github.com/Robotics-Club-IIT-BHU/HDS-SummperCamp21/blob/main/media/image001-1.png">
  <p align="center">
  <i></i><br> 
 </p>
