@@ -1,4 +1,3 @@
-%# *NOT RELEASED, WORK IN PROGRESS*
 # This material is *optional*
 
 # How to create an aerofoil in SolidWorks
