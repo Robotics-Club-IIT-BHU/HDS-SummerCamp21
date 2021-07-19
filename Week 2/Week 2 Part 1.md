@@ -46,9 +46,10 @@ connect the systems and measure the length of product they’ll need to wire up 
 
 
 
-Lofting is a drafting technique whereby curved lines are generated, to be used in plans for **streamlined objects** such as aircraft and boats. The lines may be drawn on wood and the wood then cut for advanced woodworking
+Lofting is a drafting technique whereby curved lines are generated, to be used in plans for **streamlined objects** such as aircraft and boats. The lines may be drawn on wood and the wood then cut for advanced woodworking.
+As ship design evolved from craft to science, designers learned various ways to produce long curves on a flat surface. Generating and drawing such curves became a part of ship lofting; "lofting" means drawing full-sized patterns, so-called because it was often done in large, lightly constructed mezzanines or lofts above the factory floor. When aircraft design progressed beyond the stick-and-fabric boxes of its first decade of existence, the practice of lofting moved naturally into the aeronautical realm
 
-
+See this [website](http://www.melmoth2.com/texts/Lofting.htm) for more information.
 
 This is how some lofted designs turn out.
 
