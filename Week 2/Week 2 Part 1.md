@@ -44,7 +44,13 @@ connect the systems and measure the length of product they’ll need to wire up 
 
 ## *"Bad choices make good stories."*  -yours truly
 
-This is how my lofted designs turn out.
+
+
+Lofting is a drafting technique whereby curved lines are generated, to be used in plans for **streamlined objects** such as aircraft and boats. The lines may be drawn on wood and the wood then cut for advanced woodworking
+
+
+
+This is how some lofted designs turn out.
 
 <p align="center">
  <img  width="400" height="400" src="https://github.com/Robotics-Club-IIT-BHU/HDS-SummperCamp21/blob/main/media/be73887508f185a4a1b9a76e63d21ca9.jpg">
