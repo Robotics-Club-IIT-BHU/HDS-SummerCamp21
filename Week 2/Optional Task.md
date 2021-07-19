@@ -14,3 +14,12 @@
  <p align="center">
  <i></i><br> 
 </p>
+
+
+## If you're feeling too ambitious, try a delta wing TU-144!
+
+<p align="center">
+ <img  width="800" height="600" src="https://github.com/Robotics-Club-IIT-BHU/HDS-SummperCamp21/blob/main/media/tu-144.gif">
+ <p align="center">
+ <i></i><br> 
+</p>
