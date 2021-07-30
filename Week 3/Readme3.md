@@ -1,4 +1,4 @@
-# Agenda for the fianl week: 2D detailing, equation based modelling(Optional but sexy af) and URDF export(The single most important part for robotics)
+# Agenda for the fianl week: 2D detailing, equation based modelling(Optional) and URDF export(The single most important part for robotics)
 
 ## 2D detailing: More relevant to static structures than dynamic ones
 task -> [Video](https://drive.google.com/file/d/1We5Dfq0iGke2VxEqmmHYZOrWeleuKLqr/view) | [parts](https://drive.google.com/file/d/15ghnpdZrhDU1fAEQsWs3cG6FXM8hV-C_/view) 
